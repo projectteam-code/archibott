@@ -1,0 +1,19 @@
+{
+  "floors": [
+    {
+      "floor_no": 1,
+      "rooms": [
+        {"name": "living", "x": 0, "y": 0, "w": 12, "h": 10},
+        {"name": "kitchen", "x": 12, "y": 0, "w": 8, "h": 8},
+        {"name": "bedroom_1", "x": 0, "y": 10, "w": 10, "h": 10}
+      ]
+    },
+    {
+      "floor_no": 2,
+      "rooms": [
+        {"name": "bedroom_2", "x": 0, "y": 0, "w": 10, "h": 10},
+        {"name": "bedroom_3", "x": 10, "y": 0, "w": 10, "h": 10}
+      ]
+    }
+  ]
+}
