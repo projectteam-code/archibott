@@ -1,0 +1,10 @@
+
+> archivision-ai@0.1.0 dev
+> next dev --port 3020
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3020
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 2.3s
